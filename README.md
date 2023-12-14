@@ -12,9 +12,9 @@ Ping flood tool. Requires only Bash/Zsh and Root.
 
 ## > cd wifi-bear
 
-## > zsh wifi-bear
+## > zsh wifi-bear.sh
 or
-## > bash wifi-bear
+## > bash wifi-bear.sh
 
 
 # wifi-bear-noroot
