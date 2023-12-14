@@ -1,2 +1,3 @@
 # wifi-bear
-Ping flood tool
+Ping flood tool. Requires Bash and Root.
+(Works on termux with proot-distro)
