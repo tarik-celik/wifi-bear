@@ -19,4 +19,4 @@ or
 
 # wifi-bear-noroot
 
-Ther is a no root version for that script but its not effective as the orginal.
+There is also a no root version for that script but its not effective as the orginal.
