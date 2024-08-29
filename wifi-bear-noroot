@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 clear
 ip=$(curl -s ifconfig.me)                            
 echo "your ip is ${ip}"
