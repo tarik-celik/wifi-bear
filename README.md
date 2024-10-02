@@ -4,7 +4,7 @@ Ping flood tool. Requires only Bash/Zsh and Root.
 
 ![alt_text](https://github.com/tarik-celik/wifi-bear/blob/main/Screenshot_20231213_133238_Chrome.jpg)
 
-## '$ cd ~`
+## `$ cd ~`
 ## `$ git clone https://github.com/tarik-celik/wifi-bear`
 
 # Usage 
