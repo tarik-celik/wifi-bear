@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 clear
-ip=$(curl -s ifconfig.me)                            
+ip=$(curl -s icanhazip.com)                          
 echo "your ip is ${ip}"
 echo "Are you sure to flood the network [y/n]"
 read response
